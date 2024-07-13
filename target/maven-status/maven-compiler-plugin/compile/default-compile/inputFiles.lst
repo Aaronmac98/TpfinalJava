@@ -1,0 +1,12 @@
+c:\Users\Aaron98\Desktop\FINALEJ\Back_CodoaCodo-EJ-\src\main\java\ar\com\codoacodo\App.java
+c:\Users\Aaron98\Desktop\FINALEJ\Back_CodoaCodo-EJ-\src\main\java\ar\com\codoacodo\controller\ActualizarPeliculaController.java
+c:\Users\Aaron98\Desktop\FINALEJ\Back_CodoaCodo-EJ-\src\main\java\ar\com\codoacodo\controller\CrearPeliculaController.java
+c:\Users\Aaron98\Desktop\FINALEJ\Back_CodoaCodo-EJ-\src\main\java\ar\com\codoacodo\controller\EliminarPeliculaController.java
+c:\Users\Aaron98\Desktop\FINALEJ\Back_CodoaCodo-EJ-\src\main\java\ar\com\codoacodo\controller\ListarPeliculaController.java
+c:\Users\Aaron98\Desktop\FINALEJ\Back_CodoaCodo-EJ-\src\main\java\ar\com\codoacodo\controller\ObtenerPeliculaController.java
+c:\Users\Aaron98\Desktop\FINALEJ\Back_CodoaCodo-EJ-\src\main\java\ar\com\codoacodo\dao\AdministradorDeConexiones.java
+c:\Users\Aaron98\Desktop\FINALEJ\Back_CodoaCodo-EJ-\src\main\java\ar\com\codoacodo\dao\PeliculaDAO.java
+c:\Users\Aaron98\Desktop\FINALEJ\Back_CodoaCodo-EJ-\src\main\java\ar\com\codoacodo\dao\PeliculaJDBCMysqlImpl.java
+c:\Users\Aaron98\Desktop\FINALEJ\Back_CodoaCodo-EJ-\src\main\java\ar\com\codoacodo\domain\Pelicula.java
+c:\Users\Aaron98\Desktop\FINALEJ\Back_CodoaCodo-EJ-\src\main\java\ar\com\codoacodo\dto\PeliculaDTO.java
+c:\Users\Aaron98\Desktop\FINALEJ\Back_CodoaCodo-EJ-\src\main\java\ar\com\codoacodo\service\PeliculaService.java
